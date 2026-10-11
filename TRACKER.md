@@ -6,15 +6,15 @@
 ## Week 0 · 10/8(목)–10/11(일) · Setup
 
 - [x] Python, Git, gh CLI 확인
-- [ ] VS Code / Cursor 설치 (본인 PC)
-- [ ] GitHub 레포 생성 ✅ (public, 10/8)
-- [ ] 모델 API 키 2개 (유료 1 + 무료 티어 1)
+- [x] VS Code / Cursor 설치 (본인 PC)
+- [x] GitHub 레포 생성 ✅ (public, 10/8)
+- [x] 모델 API 키 2개 (Anthropic 유료 + Gemini 무료, .env·gitignore)
 - [ ] "#90DayAIEngineer" I'm in 포스팅
 
 | 날짜 | 학습 1h | 빌드 1h |
 |------|---------|---------|
-| 10/8(목) | | |
-| 10/9(금) | | |
+| 10/8(목) | 셋업 | 셋업 |
+| 10/9(금) | ✅ | ✅ |
 | 10/10(토) | | |
 | 10/11(일) | | |
 
